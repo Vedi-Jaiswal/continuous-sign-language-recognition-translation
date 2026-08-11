@@ -85,6 +85,5 @@ The dataset contains continuous German Sign Language videos from weather forecas
 
 ## Authors
 
-- Author 1
-- Author 2
-- Author 3
+- Vedi Jaiswal - https://github.com/Vedi-Jaiswal
+- Swarali Karande - https://github.com/swaraliKarande17
